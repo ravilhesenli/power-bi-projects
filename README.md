@@ -12,7 +12,7 @@ Aşağıdakı cədvəldən istədiyiniz layihənin üzərinə klikləyərək onu
 
 | 📊 Layihənin Adı | 🎯 Əsas Analitik Fokus | 🛠️ İstifadə Olunan Texnologiyalar | 🔗 Keçid Linki |
 
-| **1. Satış Analizi** | Satış trendləri, regional və məhsul üzrə gəlir payının analizi. | Power Query (ETL), Append/Merge, Unpivot, Relyasion Model | [Layihəyə Bax ➔](Satis_Analizi/) |
+| **1. Satış Analizi** | Satış trendləri, regional və məhsul üzrə gəlir payının analizi. | Power Query (ETL), Append/Merge, Unpivot, Relyasion Model | [Layihəyə Bax ➔](Satış_Analizi/) |
 | **2. Satış Performansı və Trend Analizi** | 2 Səhifəlik Dashboard: Plan vs Fakt müqayisəsi, Zaman Analizi (YoY Growth). | Star Schema (Ulduz Sxemi), Time Intelligence, Mürəkkəb DAX | [Layihəyə Bax ➔](Satis_Performans_ve_Trend_Analizi/) |
 | **3. Müştəri Churn və Seqmentasiya Analizi** | Müştəri tərk etmə riski (Churn), Yeni/Daimi müştəri davranış analizi. | Biznes Məntiqi Filtrləri, DATEDIFF DAX, Müştəri Seqmentasiyası | [Layihəyə Bax ➔](Musteri_Churn_ve_Seqmentasiya_Analizi/) |
 | **4. Xəritə üzrə Satış və Coğrafi Analiz** | Regional satış payı, xəritə vizuallaşdırılması və xüsusi dinamik Tooltip dizaynı. | Coğrafi Xəritələr (Map), Slicers, Tooltip Səhifəsi, Müddətli Satış Analizi | [Layihəyə Bax ➔](Xarita_uzra_Satis_ve_Coqrafi_Analiz/) |
