@@ -6,11 +6,11 @@ Hər bir layihə real biznes suallarına cavab tapmaq, xam datanı təmizləmək
 
 ---
 
-## 📂 Mövcud Layihələrin Siyahısı
+## Mövcud Layihələrin Siyahısı
 
 Aşağıdakı cədvəldən istədiyiniz layihənin üzərinə klikləyərək onun xüsusi hesabat səhifəsinə (**README**), istifadə olunan xam datalarına və `.pbix` faylına birbaşa keçid edə bilərsiniz:
 
-|  Layihənin Adı |  Əsas Analitik Fokus |  İstifadə Olunan Texnologiyalar | 🔗 Keçid Linki |
+|  Layihənin Adı |  Əsas Analitik Fokus |  İstifadə Olunan Texnologiyalar |  Keçid Linki |
 
 | **1. Satış Analizi** | Satış trendləri, regional və məhsul üzrə gəlir payının analizi. | Power Query (ETL), Append/Merge, Unpivot, Relyasion Model | [Layihəyə Bax ➔](Satış_Analizi/) |
 | **2. Satış Performansı və Trend Analizi** | 2 Səhifəlik Dashboard: Plan vs Fakt müqayisəsi, Zaman Analizi (YoY Growth). | Star Schema (Ulduz Sxemi), Time Intelligence, Mürəkkəb DAX | [Layihəyə Bax ➔](Satis_Performans_ve_Trend_Analizi/) |
